@@ -1,0 +1,7 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="64" rx="8" fill="#111827"/>
+  <path d="M24 42L38 18L52 42H44L38 30L32 42H24Z" fill="#F97316"/>
+  <path d="M58 20H68L75 34L82 20H92L80 42H70L58 20Z" fill="white"/>
+  <text x="102" y="30" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="700">WASANTHA</text>
+  <text x="102" y="47" fill="#F97316" font-family="Arial, sans-serif" font-size="11" font-weight="700">CONSTRUCTION</text>
+</svg>
